@@ -1,0 +1,15 @@
+li {
+ display : inline ;
+ float : left
+}
+ul {
+ position : fixed ;
+ background-color:#FFA8CE ;
+ width : 100% ;
+ margin : 0 ;
+ padding : 0 ;
+ list-style-type : none ;
+ overflow : hidden ;
+ top : 0 ;
+ left : 0
+}
